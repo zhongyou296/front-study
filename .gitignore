@@ -1,0 +1,15 @@
+*.iml
+.idea/
+.resources/
+*.ipr
+*.iws
+**/.DS_Store
+node_modules
+.git
+.git/
+yarn.lock
+.cache
+.happypack
+mock
+npm-debug.log
+/build
